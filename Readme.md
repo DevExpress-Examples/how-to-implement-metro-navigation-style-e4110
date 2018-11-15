@@ -1,3 +1,21 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/MainWindow.xaml))
+* [FirstView.xaml](./CS/View/FirstView.xaml) (VB: [FirstView.xaml.vb](./VB/View/FirstView.xaml.vb))
+* [FirstView.xaml.cs](./CS/View/FirstView.xaml.cs) (VB: [FirstView.xaml.vb](./VB/View/FirstView.xaml.vb))
+* [MainView.xaml](./CS/View/MainView.xaml) (VB: [MainView.xaml.vb](./VB/View/MainView.xaml.vb))
+* [MainView.xaml.cs](./CS/View/MainView.xaml.cs) (VB: [MainView.xaml.vb](./VB/View/MainView.xaml.vb))
+* [SecondView.xaml](./CS/View/SecondView.xaml) (VB: [SecondView.xaml](./VB/View/SecondView.xaml))
+* [SecondView.xaml.cs](./CS/View/SecondView.xaml.cs) (VB: [SecondView.xaml](./VB/View/SecondView.xaml))
+* [ThirdView.xaml](./CS/View/ThirdView.xaml) (VB: [ThirdView.xaml](./VB/View/ThirdView.xaml))
+* [ThirdView.xaml.cs](./CS/View/ThirdView.xaml.cs) (VB: [ThirdView.xaml](./VB/View/ThirdView.xaml))
+* [First.cs](./CS/ViewModel/First.cs) (VB: [First.vb](./VB/ViewModel/First.vb))
+* [Main.cs](./CS/ViewModel/Main.cs) (VB: [Main.vb](./VB/ViewModel/Main.vb))
+* [Second.cs](./CS/ViewModel/Second.cs) (VB: [Second.vb](./VB/ViewModel/Second.vb))
+* [Third.cs](./CS/ViewModel/Third.cs) (VB: [Third.vb](./VB/ViewModel/Third.vb))
+<!-- default file list end -->
 # How to implement Metro Navigation Style
 
 
