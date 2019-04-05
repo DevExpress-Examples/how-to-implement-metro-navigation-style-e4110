@@ -2,12 +2,12 @@
 *Files to look at*:
 
 * [MainWindow.xaml](./CS/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/MainWindow.xaml))
-* [MainWindow.xaml.cs](./CS/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/MainWindow.xaml.vb))
 * [FirstView.xaml](./CS/View/FirstView.xaml) (VB: [FirstView.xaml](./VB/View/FirstView.xaml))
-* [FirstView.xaml.cs](./CS/View/FirstView.xaml.cs) (VB: [FirstView.xaml](./VB/View/FirstView.xaml))
-* [MainView.xaml](./CS/View/MainView.xaml) (VB: [MainView.xaml.vb](./VB/View/MainView.xaml.vb))
+* [FirstView.xaml.cs](./CS/View/FirstView.xaml.cs) (VB: [FirstView.xaml.vb](./VB/View/FirstView.xaml.vb))
+* [MainView.xaml](./CS/View/MainView.xaml) (VB: [MainView.xaml](./VB/View/MainView.xaml))
 * [MainView.xaml.cs](./CS/View/MainView.xaml.cs) (VB: [MainView.xaml.vb](./VB/View/MainView.xaml.vb))
-* [SecondView.xaml](./CS/View/SecondView.xaml) (VB: [SecondView.xaml.vb](./VB/View/SecondView.xaml.vb))
+* [SecondView.xaml](./CS/View/SecondView.xaml) (VB: [SecondView.xaml](./VB/View/SecondView.xaml))
 * [SecondView.xaml.cs](./CS/View/SecondView.xaml.cs) (VB: [SecondView.xaml.vb](./VB/View/SecondView.xaml.vb))
 * [First.cs](./CS/ViewModel/First.cs) (VB: [First.vb](./VB/ViewModel/First.vb))
 * [Main.cs](./CS/ViewModel/Main.cs) (VB: [Main.vb](./VB/ViewModel/Main.vb))
